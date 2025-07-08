@@ -48,5 +48,3 @@ video.audio.write_audiofile("output_audio.mp3")
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Made with ❤️ by [Tanush Sharma](https://github.com/tanush-47)
